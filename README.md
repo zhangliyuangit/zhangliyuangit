@@ -1,4 +1,8 @@
-记录一些自己在用的小工具。
+<p><img src="assets/header.svg" width="100%" alt="一些自己在用的小工具。macOS · AI coding · Local tools"></p>
 
-- **[Codex Finch](https://github.com/zhangliyuangit/codex-finch)** — macOS 菜单栏工具，查看 Codex 的今日 token、额度快照与会话状态。[下载](https://github.com/zhangliyuangit/codex-finch/releases)
-- **[SkillPort](https://github.com/zhangliyuangit/skillport)** — 在本地管理和同步 Codex、Claude Code、Qoder 的 Skill。
+<p>
+<a href="https://github.com/zhangliyuangit/codex-finch"><img src="assets/finch.svg" width="49%" alt="Codex Finch：今日 token、额度快照与项目会话"></a>
+<a href="https://github.com/zhangliyuangit/skillport"><img src="assets/skillport.svg" width="49%" alt="SkillPort：本地管理、多工具同步 Skill"></a>
+</p>
+
+[下载 Finch](https://github.com/zhangliyuangit/codex-finch/releases) · [查看 SkillPort](https://github.com/zhangliyuangit/skillport)

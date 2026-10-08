@@ -1,3 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="80" viewBox="0 0 600 80" role="img" aria-label="Local tools">
-  <text x="12" y="49" font-family="sans-serif" font-size="24" fill="#6b7280">Local tools</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="212" viewBox="0 0 1200 212" role="img" aria-label="一些自己在用的小工具。macOS、AI coding、Local tools。">
+<rect x="1" y="1" width="1198" height="210" rx="18" fill="#151d24" stroke="#303b44"/>
+<path d="M36 38h26" stroke="#d7b579" stroke-width="3" stroke-linecap="round"/>
+<text x="75" y="43" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2.2" fill="#b4c0c7">A SMALL TOOLBOX</text>
+<text x="36" y="108" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, sans-serif" font-size="37" font-weight="600" fill="#eee9df">一些自己在用的小工具。</text>
+<text x="38" y="158" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#95abae">macOS</text><circle cx="100" cy="153" r="2" fill="#53696d"/>
+<text x="118" y="158" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#95abae">AI coding</text><circle cx="220" cy="153" r="2" fill="#53696d"/>
+<text x="238" y="158" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#95abae">Local tools</text>
+<path d="M861 173h284" stroke="#384750" stroke-width="2"/>
+<rect x="889" y="48" width="168" height="112" rx="12" fill="#1c2931" stroke="#537478"/>
+<path d="M889 73h168" stroke="#384b54"/><circle cx="904" cy="60" r="3" fill="#d7b579"/><circle cx="916" cy="60" r="3" fill="#8caba9"/><circle cx="928" cy="60" r="3" fill="#53696d"/>
+<path d="m912 96 16 12-16 12m30 0h29" fill="none" stroke="#dce5dc" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1031" y="111" width="76" height="49" rx="8" fill="#27382f" stroke="#779681"/>
+<path d="m1052 126 17 10 17-10m-17 10v14" fill="none" stroke="#bacabd" stroke-width="2"/>
+<path d="M1129 161v-39m0 16-13-12m13 3 12-13" fill="none" stroke="#7b9290" stroke-width="2.5" stroke-linecap="round"/>
 </svg>
